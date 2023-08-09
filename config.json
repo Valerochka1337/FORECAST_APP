@@ -1,0 +1,5 @@
+{
+  "cities": ["Toronto", "Ufa", "San Francisco"],
+  "days": 2,
+  "freq": 10000000
+}
